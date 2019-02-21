@@ -1,4 +1,4 @@
-Comparative and Computational Music Lab
+* Comparative and Computational Music Lab
 
 This code is for conducting perceptual experiments on a 20 song global song sample.
 
@@ -9,7 +9,7 @@ We divided the experiment into two parts:
 1)Songwise Evaluation
 2)Pairwise Comparison
 
-PART 1
+** PART 1
 
 For a our Songwise Evaluation, we ask participants to rate each song on 13 distinct parameters.
 The parameters are used to evaluate the aesthetic and stylistic features of songs and are measured on a scale from 0 to 100.
@@ -43,7 +43,7 @@ The features are as follows:
 13. Sound Quality 
         Low or High
 
-PART 2
+** PART 2
 
 We then asked the participants to evaulate all possible pairs of 20 songs in 4 blocks of 47-48 song comparisons each.
 
